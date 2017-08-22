@@ -1,0 +1,1 @@
+This is a basic setup of React using webpack to be re-used again and again.
